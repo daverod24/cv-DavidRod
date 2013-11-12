@@ -1,12 +1,12 @@
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8">
-    <title>Philip I. Thomas Curriculum Vitae</title>
+    <title>David Rodriguez La Riva Curriculum Vitae</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Curriculum Vitae for Philip I. Thomas">
+    <meta name="description" content="Curriculum Vitae for David Rodriguez La Riva">
     <meta name="author" content="Philip I. Thomas">
+    <meta name="author" content="David Rodriguez La Riva">
 
     <!-- Le styles -->
     <link href="../assets/css/bootstrap.css" rel="stylesheet">
@@ -51,7 +51,7 @@
 	<div class="span12">
 		<h3 style="text-align: center; text-style: italic">Curriculum Vitae for</h3>
 		
-      <h1 style="padding: 10px 0px; text-align: center; font-size: 60px; line-height: 70px; text-transform: lowercase">Philip I. Thomas</h1>
+      <h1 style="padding: 10px 0px; text-align: center; font-size: 60px; line-height: 70px; text-transform: lowercase">David Rodriguez La Riva</h1>
 	<span class="" style="text-align: center;"> 
 		<address>
 		<a href="http://philipithomas.com" target="_blank">www.philipithomas.com</a><br />
