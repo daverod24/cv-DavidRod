@@ -1,22 +1,27 @@
 #About
 
 
-Paper resumes suck. They are inconvenient to carry around. They are boring to read. There are always multiple versions. 
+Aqui tengo  un documento plano que es mi resumen curricular que lo decidi hacer en Markdown por su sencillez 
+de que es texto plano y despues utilizo pandoc una herramienta que me permite convertir  
+el archivo a html incluso con hojas de estilo css.
 
+##Muy pronto
+Hare distintas pruebas usando css de bootstrap 
 I decided to turn my resume into a website to address these concerns. This makes the site easy to access, and it allows linking to various projects. The site is based on the [Spacelab Bootswatch](http://bootswatch.com/), so design is responsive. Storing the site as a public git repository allows version control and a degree of accountability as changes are made.  
 
 #Visit
+##donde estara montado
+por los momentos en github despues lo montare en  un hosting
+Live at [linkedin david](http://ve.linkedin.com/in/davidrod24/).
 
-Live at [cv.david.com](http://linkedin.com).
-
-#Building Your Own
-
-Feel free to fork this repository and build your own resume. I used a couple basic PHP functions to keep formatting consistent. In addition, I host on Heroku, which is free for small scale and easy to integrate with git. Also, don't forget to swap in your Google Analytics code for mine! 
+#Create el tuyo
+all has been created with markdown, pandoc, wkhtmltopdf and Geany.
+Feel free to fork this repository and build your own resume.
 
 #Upcoming Improvements
 
-* Modals with further information about companies
-* Print to PDF function
+* mejoramiento del css para hacerlo bonito  a la vista 
+* algunos tricks de ccs
 
 
 
